@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Modern Essentials Clothing",
+  "description": "Timeless clothing brand featuring modern essentials, curated looks, and thoughtful everyday designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
